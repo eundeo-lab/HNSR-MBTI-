@@ -1,0 +1,42 @@
+#result{
+  display: none;
+  background-color: #6dcff6;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+#shareResult {
+  background-color: rgb(245, 245, 245);
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.resultName {
+  font-size: 20px;
+}
+
+.kakao {
+  color: white;
+  background-color: #FEE500;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.kakao:hover, .kakao:focus {
+  background-color: #fff066;
+  color: white;
+}
+
+.gohome {
+  color: white;
+  background-color: pink;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.gohome:hover, .gohome:focus {
+  background-color: palevioletred;
+  color: white;
+}

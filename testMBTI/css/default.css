@@ -1,0 +1,12 @@
+/* 파일에 전체적으로 영향을 주는 css */
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+* {
+  font-family: 'Hahmlet', serif;
+}
+
+p {
+  font-size: 18px;
+}
